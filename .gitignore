@@ -1,0 +1,15 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore compiled files
+/bin/
+target/
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+*.iml
+.idea/
